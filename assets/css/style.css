@@ -178,7 +178,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #45505b;
+  color: #e6e6fa;
   padding: 10px 18px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -199,7 +199,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 @media (min-width: 992px) {
@@ -262,7 +262,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 .mobile-nav-active {
@@ -310,11 +310,11 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 #hero p {
-  color: #45505b;
+  color: #e6e6fa;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -332,7 +332,7 @@ h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #e6e6fa;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
@@ -379,7 +379,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 .section-title h2::before {
@@ -502,7 +502,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 .skills .progress .skill .val {
@@ -529,7 +529,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 .resume .resume-item {
@@ -688,12 +688,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #e6e6fa;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
+  color: #e6e6fa;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -706,7 +706,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #45505b;
+  color: #e6e6fa;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -850,7 +850,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #45505b;
+  color: #e6e6fa;
   transition: ease-in-out 0.3s;
 }
 
@@ -1047,7 +1047,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #45505b;
+  color: #e6e6fa;
 }
 
 .contact .info p {
@@ -1173,7 +1173,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #f7f8f9;
-  color: #45505b;
+  color: #e6e6fa;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
